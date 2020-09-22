@@ -2,8 +2,8 @@ body {
   font-size: 120%;
   font-family: "Helvetica Neue", Arial, sans-serif;
   line-height: 1.4;
-  color: #263238;
-  background-color: #ffffff;
+  color: #000000;
+  background-color: #ffffcc;
   margin: 0;
 }
  h1 {
@@ -14,7 +14,7 @@ body {
   margin: 0;
 }
 nav {
-  background-color: #263238;
+  background-color: #ff8181;
 }
 nav ul {
   margin: 0;
@@ -22,7 +22,7 @@ nav ul {
   list-style: none;
 }
 nav a {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
   display: block;
   padding: 0.8rem;
@@ -36,11 +36,11 @@ main {
   display: flex;
 }
 article {
-  width: 50%;
+  width: 65%;
   margin: 0 2rem;
 }
 footer {
-  background-color: #263238;
+  background-color: #ff8181;
   color: #ffffff;
   padding: 2rem;
   margin-top: 1rem;
